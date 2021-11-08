@@ -1,5 +1,3 @@
-require 'ext'
-
 describe 'Object', ->
   describe 'isString', ->
     it 'detects what is', ->
