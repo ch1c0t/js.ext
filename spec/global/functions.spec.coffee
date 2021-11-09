@@ -1,6 +1,9 @@
 describe 'global functions', ->
   it 'fun', ->
-    expect(typeof fun is 'function').toBe yes
+    expect(typeof fun).toBe 'function'
 
   it 'as', ->
-    expect(typeof as is 'function').toBe yes
+    expect(typeof as).toBe 'function'
+
+  it 'p', ->
+    expect(typeof p).toBe 'function'

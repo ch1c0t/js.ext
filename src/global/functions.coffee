@@ -3,3 +3,5 @@ global.fun = fun
 
 { as } = require 'value.as'
 global.as = as
+
+global.p = console.log
