@@ -16,3 +16,14 @@ describe 'Object::case', ->
         isArray: 2
 
       expect(value).toBe 2
+
+    it 'looks readable', ->
+      fn = (object) ->
+        if object?
+          object.case
+            isString: [object]
+            isArray: object
+        else
+          []
+
+      expect(fn()).toEqual []
