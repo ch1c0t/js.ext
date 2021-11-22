@@ -1,4 +1,4 @@
-describe 'Object', ->
+describe 'Object questions', ->
   describe 'isString', ->
     it 'detects what is', ->
       expect('some string'.isString()).toBe true
