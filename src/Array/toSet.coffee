@@ -1,0 +1,2 @@
+Array::toSet = ->
+  new Set @

@@ -1,2 +1,3 @@
 require './global/functions'
-require './object'
+require './Object'
+require './Array'
