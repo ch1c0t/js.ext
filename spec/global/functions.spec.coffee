@@ -7,3 +7,6 @@ describe 'global functions', ->
 
   it 'p', ->
     expect(typeof p).toBe 'function'
+
+  it 'bow', ->
+    expect(typeof bow).toBe 'function'
