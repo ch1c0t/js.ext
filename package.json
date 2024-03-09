@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "coffeelib": "^0.0.5",
-    "jasmine": "^3.9.0"
+    "jasmine": "^5.1.0"
   },
   "dependencies": {
     "@ch1c0t/bow": "^0.0.0",
