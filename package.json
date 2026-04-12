@@ -18,8 +18,8 @@
     "test": "jasmine"
   },
   "devDependencies": {
-    "coffeelib": "^0.0.5",
-    "jasmine": "^5.1.0"
+    "coffeelib": "^0.5.0",
+    "jasmine": "^6.1.0"
   },
   "dependencies": {
     "@ch1c0t/bow": "^0.0.0",
