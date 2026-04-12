@@ -1,3 +1,5 @@
+global.p = console.log
+
 { fun } = require '@ch1c0t/fun'
 global.fun = fun
 
@@ -7,4 +9,5 @@ global.as = as
 { bow } = require '@ch1c0t/bow'
 global.bow = bow
 
-global.p = console.log
+{ sh } = require '@ch1c0t/sh'
+global.sh = sh

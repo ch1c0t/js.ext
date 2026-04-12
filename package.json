@@ -24,6 +24,7 @@
   "dependencies": {
     "@ch1c0t/bow": "^0.0.0",
     "@ch1c0t/fun": "^0.3.0",
+    "@ch1c0t/sh": "^0.0.1",
     "value.as": "^0.0.0"
   }
 }
