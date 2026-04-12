@@ -1,4 +1,4 @@
-require './global/functions'
+require './global'
 require './Object'
 require './Array'
 require './Set'
