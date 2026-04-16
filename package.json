@@ -5,7 +5,7 @@
     "require": "./lib/main.js",
     "import": "./lib/esm.mjs"
   },
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Anatoly Chernov <chertoly@gmail.com>",
   "description": "left as an exercise to the reader",
   "license": "0BSD",
@@ -22,7 +22,7 @@
     "jasmine": "^6.1.0"
   },
   "dependencies": {
-    "@ch1c0t/bow": "^0.0.0",
+    "@ch1c0t/bow": "^0.0.1",
     "@ch1c0t/fun": "^0.3.0",
     "@ch1c0t/io": "^0.0.7",
     "@ch1c0t/sh": "^0.0.1",
