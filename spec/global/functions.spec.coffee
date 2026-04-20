@@ -16,3 +16,6 @@ describe 'global functions', ->
 
   it 'IO', ->
     expect(typeof IO.mkdir).toBe 'function'
+
+  it 'AtExit', ->
+    expect(typeof AtExit).toBe 'function'

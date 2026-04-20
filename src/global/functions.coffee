@@ -11,3 +11,6 @@ global.bow = bow
 
 { sh } = require '@ch1c0t/sh'
 global.sh = sh
+
+{ AtExit } = require 'hook.at-exit'
+global.AtExit = AtExit
