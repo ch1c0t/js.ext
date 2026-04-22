@@ -5,7 +5,7 @@
     "require": "./lib/main.js",
     "import": "./lib/esm.mjs"
   },
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "Anatoly Chernov <chertoly@gmail.com>",
   "description": "left as an exercise to the reader",
   "license": "0BSD",
@@ -18,7 +18,7 @@
     "test": "jasmine"
   },
   "devDependencies": {
-    "coffeelib": "^0.5.0",
+    "coffeelib": "^0.5.6",
     "jasmine": "^6.1.0"
   },
   "dependencies": {
