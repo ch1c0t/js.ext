@@ -14,3 +14,6 @@ global.sh = sh
 
 { AtExit } = require 'hook.at-exit'
 global.AtExit = AtExit
+
+{ Task } = require '@ch1c0t/task'
+global.Task = Task

@@ -19,3 +19,6 @@ describe 'global functions', ->
 
   it 'AtExit', ->
     expect(typeof AtExit).toBe 'function'
+
+  it 'Task', ->
+    expect(typeof Task).toBe 'function'
