@@ -5,9 +5,9 @@
     "require": "./lib/main.js",
     "import": "./lib/esm.mjs"
   },
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": "Anatoly Chernov <chertoly@gmail.com>",
-  "description": "left as an exercise to the reader",
+  "description": "JavaScript amenities",
   "license": "0BSD",
   "keywords": [
     "coffeescript"
