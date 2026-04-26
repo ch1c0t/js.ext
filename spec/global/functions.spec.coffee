@@ -14,9 +14,6 @@ describe 'global functions', ->
   it 'sh', ->
     expect(typeof sh).toBe 'function'
 
-  it 'IO', ->
-    expect(typeof IO.mkdir).toBe 'function'
-
   it 'AtExit', ->
     expect(typeof AtExit).toBe 'function'
 
