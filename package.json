@@ -5,7 +5,7 @@
     "require": "./lib/main.js",
     "import": "./lib/esm.mjs"
   },
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "Anatoly Chernov <chertoly@gmail.com>",
   "description": "JavaScript amenities",
   "license": "0BSD",
@@ -26,7 +26,7 @@
     "@ch1c0t/fun": "^0.3.0",
     "@ch1c0t/io": "^0.1.0",
     "@ch1c0t/sh": "^0.0.1",
-    "@ch1c0t/task": "^0.0.0",
+    "@ch1c0t/task": "^0.1.0",
     "hook.at-exit": "^0.0.2",
     "value.as": "^0.0.0"
   }
