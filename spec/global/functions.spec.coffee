@@ -1,4 +1,7 @@
 describe 'global functions', ->
+  it 'f', ->
+    expect(typeof f).toBe 'function'
+
   it 'fun', ->
     expect(typeof fun).toBe 'function'
 

@@ -1,5 +1,8 @@
 global.p = console.log
 
+{ f } = require '@ch1c0t/f'
+global.f = f
+
 { fun } = require '@ch1c0t/fun'
 global.fun = fun
 
