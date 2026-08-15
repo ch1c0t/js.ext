@@ -12,6 +12,9 @@ global.as = as
 { bow } = require '@ch1c0t/bow'
 global.bow = bow
 
+{ Pa } = require '@ch1c0t/pa'
+global.Pa = Pa
+
 { sh } = require '@ch1c0t/sh'
 global.sh = sh
 

@@ -14,6 +14,9 @@ describe 'global functions', ->
   it 'bow', ->
     expect(typeof bow).toBe 'function'
 
+  it 'Pa', ->
+    expect(typeof Pa).toBe 'function'
+
   it 'sh', ->
     expect(typeof sh).toBe 'function'
 
