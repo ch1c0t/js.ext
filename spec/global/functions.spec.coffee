@@ -25,3 +25,6 @@ describe 'global functions', ->
 
   it 'Task', ->
     expect(typeof Task).toBe 'function'
+
+  it 'Spawn', ->
+    expect(typeof Spawn).toBe 'function'
